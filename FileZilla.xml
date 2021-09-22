@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.53.1" platform="windows">
+	<Servers>
+		<Server>
+			<Host>192.168.31.191</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">MTIzNDU2</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>192.168.31.191</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+			<Bookmark>
+				<Name>药师工作台</Name>
+				<LocalDir>D:\www\pharmacist\dist\</LocalDir>
+				<RemoteDir>1 0 6 mydata 5 nginx 4 html 4 work</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Bookmark>
+		</Server>
+		<Server>
+			<Host>192.168.31.23</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">Y2h1bmthbmc=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>192.168.31.23</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+			<Bookmark>
+				<Name>药师工作台</Name>
+				<LocalDir>D:\www\pharmacist\dist\</LocalDir>
+				<RemoteDir>1 0 3 usr 5 local 4 work 5 front</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Bookmark>
+		</Server>
+		<Server>
+			<Host>192.168.31.24</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">MQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>192.168.31.24</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+			<Bookmark>
+				<Name>电子药历</Name>
+				<LocalDir>C:\www\medicine-calendar\dist\</LocalDir>
+				<RemoteDir>1 0 3 usr 5 local 5 ripap 23 medicine-calendar-front</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Bookmark>
+		</Server>
+		<Server>
+			<Host>192.168.31.24</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">MQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>24 处方点评</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+			<Bookmark>
+				<Name>处方点评</Name>
+				<LocalDir>C:\www\ripap-frontend-v3.0\build\</LocalDir>
+				<RemoteDir>1 0 3 usr 5 local 6 review 5 front</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Bookmark>
+		</Server>
+		<Server>
+			<Host>192.168.31.24</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">MQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>审方系统</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+			<Bookmark>
+				<Name>审方</Name>
+				<LocalDir>C:\www\ripap-frontend-v3.0\build\</LocalDir>
+				<RemoteDir>1 0 3 usr 5 local 5 ripap 5 front</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Bookmark>
+			<Bookmark>
+				<Name>审方 v2</Name>
+				<LocalDir>C:\www\ripap-frontend-v2\build\</LocalDir>
+				<RemoteDir>1 0 3 usr 5 local 5 ripap 5 front</RemoteDir>
+			</Bookmark>
+		</Server>
+	</Servers>
+</FileZilla3>
